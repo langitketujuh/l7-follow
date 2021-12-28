@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
-    { link = { href = "https://langitketujuh.id", text = "Mampir yuk!", target = "_blank" } },
+    { link = { href = "https://langitketujuh.id", text = "Kunjungi situs", target = "_blank" } },
     { link = { href = "https://panduan.langitketujuh.id", text = "Panduan lengkap", target = "_blank" } },
     { whatsapp = { href = "https://wa.me/message/RN5NNCNHNEY6B1", text = "Perlu bantuan?" } },
     { telegram = { href = "https://t.me/langitketujuhCS", text = "Perlu bantuan? (tg)" } },
