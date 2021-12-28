@@ -1,0 +1,5 @@
+---
+title: Contoh Halaman
+---
+
+Lorem.

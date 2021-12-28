@@ -1,0 +1,62 @@
+baseURL = "https://link.langitketujuh.id/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Pilihan Tepat untuk Desainer dan Pengguna Desktop | LangitKetujuh OS"
+copyright = "2020-2021 | LangitKetujuh ID"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "LangitKetujuh OS"
+  image = "profile-langitketujuh.webp"
+
+  links = [
+    #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    { link = { href = "https://langitketujuh.id", text = "Mampir yuk!", target = "_blank" } },
+    { link = { href = "https://panduan.langitketujuh.id", text = "Panduan lengkap", target = "_blank" } },
+    { whatsapp = { href = "https://wa.me/message/RN5NNCNHNEY6B1", text = "Perlu Bantuan?" } },
+    { telegram = { href = "https://t.me/langitketujuhCS", text = "Perlu Bantuan? (tg)" } },
+    { instagram = { href = "https://instagram.com/langitketujuh.id", text = "Followernya dikit nih" } }
+    { facebook = { href = "https://facebook.com/groups/langitketujuh.group", text = "Komunitas Facebook" } },
+    { telegram = { href = "https://t.me/langitketujuh_group", text = "Komunitas Telegram" } },
+    { facebook = { href = "https://facebook.com/langitketujuh.id", text = "Facebook Fanspage" } },
+    { telegram = { href = "https://t.me/langitketujuhid", text = "Kanal Telegram" } },
+    { gitlab = "https://gitlab.com/langitketujuh" },
+    { email = "mailto:langitketujuh.id@pm.me" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { apple = "https://www.apple.com" },
+    # { codepen = "https://codepen.io/username" },
+    # { dev = "https://dev.to/username" },
+    # { discord = "https://discord.gg/invitecode" },
+    # { dribbble = "https://dribbble.com/username" },
+    # { flickr = "https://www.flickr.com/photos/username/" },
+    # { foursquare = "https://foursquare.com/username" },
+    # { github = "https://github.com/username" },
+    # { google = "https://www.google.com/" },
+    # { keybase = "https://keybase.io/username" },
+    # { kickstarter = "https://www.kickstarter.com/profile/username" },
+    # { lastfm = "https://lastfm.com/user/username" },
+    # { linkedin = "https://linkedin.com/in/username" },
+    # { mastodon = "https://mastodon.instance/@username" },
+    # { medium = "https://medium.com/username" },
+    # { microsoft = "https://www.microsoft.com/" },
+    # { patreon = "https://www.patreon.com/username" },
+    # { pinterest = "https://pinterest.com/username" },
+    # { reddit = "https://reddit.com/user/username" },
+    # { slack = "https://workspace.url/team/userid" },
+    # { snapchat = "https://snapchat.com/add/username" },
+    # { soundcloud = "https://soundcloud.com/username" },
+    # { steam = "https://steamcommunity.com/profiles/userid" },
+    # { tiktok = "https://tiktok.com/@username" },
+    # { tumblr = "https://username.tumblr.com" },
+    # { twitch = "https://twitch.tv/username" },
+    # { twitter = "https://twitter.com/username" },
+    # { youtube = "https://youtube.com/username" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.86.1"
