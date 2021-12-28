@@ -2,7 +2,7 @@ baseURL = "https://link.langitketujuh.id/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Pilihan Tepat untuk Desainer dan Pengguna Desktop | LangitKetujuh OS"
+title = "Tautan Bio | LangitKetujuh OS"
 copyright = "2020-2021 | LangitKetujuh ID"
 
 enableEmoji = true
@@ -16,15 +16,15 @@ disableKinds = ["taxonomy", "term"]
     #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
     { link = { href = "https://langitketujuh.id", text = "Mampir yuk!", target = "_blank" } },
     { link = { href = "https://panduan.langitketujuh.id", text = "Panduan lengkap", target = "_blank" } },
-    { whatsapp = { href = "https://wa.me/message/RN5NNCNHNEY6B1", text = "Perlu Bantuan?" } },
-    { telegram = { href = "https://t.me/langitketujuhCS", text = "Perlu Bantuan? (tg)" } },
+    { whatsapp = { href = "https://wa.me/message/RN5NNCNHNEY6B1", text = "Perlu bantuan?" } },
+    { telegram = { href = "https://t.me/langitketujuhCS", text = "Perlu bantuan? (tg)" } },
     { instagram = { href = "https://instagram.com/langitketujuh.id", text = "Followernya dikit nih" } }
     { facebook = { href = "https://facebook.com/groups/langitketujuh.group", text = "Komunitas Facebook" } },
     { facebook = { href = "https://facebook.com/langitketujuh.id", text = "Fanspage Facebook" } },
     { telegram = { href = "https://t.me/langitketujuh_group", text = "Komunitas Telegram" } },
     { telegram = { href = "https://t.me/langitketujuh_bot", text = "Asisten Telegram" } },
     { telegram = { href = "https://t.me/langitketujuhid", text = "Kanal Telegram" } },
-    { gitlab = "https://gitlab.com/langitketujuh" },
+    { gitlab = { href = "https://gitlab.com/langitketujuh", text = "Kode sumber" } },
     { email = "mailto:langitketujuh.id@pm.me" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
