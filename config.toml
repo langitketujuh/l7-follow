@@ -22,9 +22,9 @@ disableKinds = ["taxonomy", "term"]
     { instagram = { href = "https://instagram.com/langitketujuh.id", text = "Followernya dikit nih" } }
     { facebook = { href = "https://facebook.com/groups/langitketujuh.group", text = "Komunitas Facebook" } },
     { facebook = { href = "https://facebook.com/langitketujuh.id", text = "Fanspage Facebook" } },
+    { telegram = { href = "https://t.me/langitketujuhid", text = "Channel Telegram" } },
     { telegram = { href = "https://t.me/langitketujuh_group", text = "Komunitas Telegram" } },
     { telegram = { href = "https://t.me/langitketujuh_bot", text = "Asisten Telegram" } },
-    { telegram = { href = "https://t.me/langitketujuhid", text = "Kanal Telegram" } },
     { gitlab = { href = "https://gitlab.com/langitketujuh", text = "Kode sumber" } },
     { email = "mailto:langitketujuh.id@pm.me" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
