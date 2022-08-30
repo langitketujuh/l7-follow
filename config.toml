@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "term"]
     { instagram = { href = "https://instagram.com/langitketujuh.id", text = "Instagram" } },
     { telegram = { href = "https://t.me/langitketujuh_cs", text = "Admin Telegram" } },
     { whatsapp = { href = "https://wa.me/message/RN5NNCNHNEY6B1", text = "Admin WhatsApp" } },
-    { telegram = { href = "https://t.me/langitketujuh_group", text = "Komunitas Telegram" } },
+    { telegram = { href = "https://t.me/langitketujuh_os", text = "Komunitas Telegram" } },
     { facebook = { href = "https://facebook.com/groups/langitketujuh.group", text = "Komunitas Facebook" } },
     { telegram = { href = "https://t.me/langitketujuh_bot", text = "Bot Telegram" } },
     { link = { href = "https://panduan.langitketujuh.id", text = "Panduan Install", target = "_blank" } },
