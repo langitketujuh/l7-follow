@@ -9,8 +9,8 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
-  name = "LangitKetujuh OS"
-  image = "profile-langitketujuh.webp"
+  name = "LangitKetujuh"
+  # image = "image/profile-langitketujuh.webp"
 
   links = [
     #{ link = { href = "styles/", text = "All the link styles", target = "_self" } },
